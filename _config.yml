@@ -16,18 +16,18 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Junhyung Kim
+  tagline: Developer. Department of Computer Science, Yonsei University
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: false
   showPicker: true
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: JHyungKim94
+    github:  JHyungKim94
+    linkedIn: in/JHyungKim94
     rss: rss
  
 
